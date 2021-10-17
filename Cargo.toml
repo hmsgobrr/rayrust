@@ -1,0 +1,7 @@
+[package]
+name = "rayrust"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+raylib = { version = "3.5", git = "https://github.com/deltaphc/raylib-rs" }
